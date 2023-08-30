@@ -11,14 +11,30 @@ My portfolio is designed to demonstrate my skills in software testing across var
 You can download my CV in PDF format from my Google Drive.
 ## Test Showcase
 
-- [Facebook.com](Facebook.com) was used to create demo test cases
+   - [Facebook.com](Facebook.com) was used to create demo test cases
   * Test Plan(htp=sharing)
   * Test cases [Microsoft Excel] [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
   * Automation Testing
   * Test Report
 
-- [Amazon.com](Amazon.com)
+   - [Amazon.com](Amazon.com)
   * Test Plan(htp=sharing)
   * Test cases [Jira]
   * Automation Testing
   * Test Report
+ 
+   - [Mobile app](Amazon.com)
+  * Test Plan(htp=sharing)
+  * Test cases [Jira]
+  * API Testing
+  * Project documentatio
+  * Project Requirements
+  * Test Report
+
+    - [Online Game](Amazon.com)
+  * Test Plan(htp=sharing)
+  * Test cases [Jira]
+  * Installation testing
+  * Configuration testing
+  * Test Report
+
