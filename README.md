@@ -12,13 +12,13 @@ You can download my CV in PDF format from my Google Drive.
 ## Test Showcase
 
 - [Facebook.com](Facebook.com) was used to create demo test cases
-  * Test Plan(htp=sharing)
+  * Test Plan[the training webpage Enotes]
   * Test cases [Microsoft Excel] [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
   * Automation Testing
   * Test Report
 
 - [Amazon.com](Amazon.com)
-  * Test Plan(htp=sharing)
+  * [Test Plan](https://1drv.ms/w/s!ArG27EA3d8gegxqUSbn9LEeqW8RR?e=iF3uII)
   * Test cases [Jira]
   * Automation Testing
   * Test Report
