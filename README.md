@@ -24,7 +24,7 @@ You can download my CV in PDF format from my Google Drive.
   * Test Report
  
 - [Mobile app](Amazon.com)
-  * Test Plan(htp=sharing)
+  * [Test Plan]([https://1drv.ms/w/s!ArG27EA3d8gegxrUSVLhuZlxKlnU?e=eikNkr)
   * Test cases [Jira]
   * API Testing
   * Project documentatio
