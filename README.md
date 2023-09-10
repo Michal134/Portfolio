@@ -14,7 +14,7 @@ You can download my CV in PDF format from my Google Drive.
 - [Facebook.com](Facebook.com) was used to create demo test cases
   * Test Plan[the training webpage Enotes]
   * Test cases [Microsoft Excel] [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-  * Automation Testing
+  *Automation Testing
   * Test Report
 
 - [Amazon.com](Amazon.com)
@@ -25,8 +25,7 @@ You can download my CV in PDF format from my Google Drive.
     * [Example 2](https://drive.google.com/file/d/1gwx4aCIhyKprnH7xrZZRVHKw1QBNQN9g/view?usp=sharing)
     * [Example 3](https://drive.google.com/file/d/1hY-k3XcQm_0fp_2x4XGrx3QQ_WLxMtUO/view?usp=sharing)
   * [Excel](https://drive.google.com/file/d/1jclZW82by1_m1FDoIZYiNWQbu9zPtC93/view?usp=sharing) 
-  * [Automation Testing](https://github.com/Michal134/Amazon.git) *'Logging in, making a purchase, and taking a screenshot'
-  * [Screen record](https://drive.google.com/file/d/1R6yy10S5acyXwyZDhN0HkUD4sgjxV77e/view?usp=sharing)
+  * [Automation Testing](https://github.com/Michal134/Amazon.git) *`Logging in, making a purchase, and taking a screenshot` [Screen record](https://drive.google.com/file/d/1R6yy10S5acyXwyZDhN0HkUD4sgjxV77e/view?usp=sharing)
   * Test Report
  
 - [Mobile app](Amazon.com)
