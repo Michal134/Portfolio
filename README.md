@@ -12,13 +12,13 @@ My portfolio is designed to demonstrate my skills in software testing across var
 You can download my CV in PDF format from my Google Drive
 
 ## Test Showcase
-- [Facebook.com](Facebook.com) was used to create demo test cases
+:arrow_forward: [Facebook.com](Facebook.com) was used to create demo test cases
   * Test Plan[the training webpage Enotes]
   * Test cases [Microsoft Excel] [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
   *Automation Testing
   * Test Report
 
-- [Amazon.com](Amazon.com)
+:arrow_forward: [Amazon.com](Amazon.com)
   * [Test Plan](https://1drv.ms/w/s!ArG27EA3d8gegxqUSbn9LEeqW8RR?e=iF3uII)
   * Test cases:
   * Jira
@@ -29,7 +29,7 @@ You can download my CV in PDF format from my Google Drive
   * [Automation Testing Repositorie](https://github.com/Michal134/Amazon.git) *`Logging in, making a purchase, and taking a screenshot` [Screen record](https://drive.google.com/file/d/1R6yy10S5acyXwyZDhN0HkUD4sgjxV77e/view?usp=sharing)
   * Test Report
  
-- [Mobile app](Amazon.com)
+:arrow_forward: [Mobile app](Amazon.com)
   * [Test Plan]([https://1drv.ms/w/s!ArG27EA3d8gegxrUSVLhuZlxKlnU?e=eikNkr)
   * Test cases [Jira]
   * API Testing
@@ -37,7 +37,7 @@ You can download my CV in PDF format from my Google Drive
   * Project Requirements
   * Test Report
 
-- [Online Game](Amazon.com)
+:arrow_forward: [Online Game](Amazon.com)
   * Test Plan(htp=sharing)
   * Test cases [Jira]
   * Installation testing
