@@ -3,14 +3,14 @@ My portfolio is designed to demonstrate my skills in software testing across var
 - [About me](#about-me)
 - [Resume](#Resume)
 - [Test Showcase](#Test-Showcase) *`Test by design does not aim to cover all functionalities and use different testing techniques and tools`
-
+- [Books I have read](#books-i-have-read)
   
 ![Portfolioview](https://github.com/Michal134/Portfolio/assets/128796710/b4c2fa60-789e-4948-ae70-f17af4cc53ec)
 
 ## Resume
-You can download my CV in PDF format from my Google Drive.
-## Test Showcase
+You can download my CV in PDF format from my Google Drive
 
+## Test Showcase
 - [Facebook.com](Facebook.com) was used to create demo test cases
   * Test Plan[the training webpage Enotes]
   * Test cases [Microsoft Excel] [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
@@ -42,4 +42,7 @@ You can download my CV in PDF format from my Google Drive.
   * Installation testing
   * Configuration testing
   * Test Report
+    
+### Books I have read
+
 
