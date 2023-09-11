@@ -3,6 +3,7 @@ My portfolio is designed to demonstrate my skills in software testing across var
 - [About me](#about-me)
 - [Resume](#Resume)
 - [Test Showcase](#Test-Showcase) *`Test by design does not aim to cover all functionalities and use different testing techniques and tools`
+- [Tools](#Tools)
 - [Books I have read](#books-i-have-read)
   
 ![Portfolioview](https://github.com/Michal134/Portfolio/assets/128796710/b4c2fa60-789e-4948-ae70-f17af4cc53ec)
@@ -43,6 +44,25 @@ You can download my CV in PDF format from my Google Drive
   * Configuration testing
   * Test Report
     
-### Books I have read
+## Tools 
+
+:arrow_forward: Jira - bug tracker
+:arrow_forward: TestRail - test cases management
+:arrow_forward: VirtualBox - Open-source virtualization software 
+:arrow_forward: Slack - for communication within the team
+:arrow_forward: Chrome DevTools - for testing and to improve bug reports
+:arrow_forward: Git, Git Bash, GitHub
+:arrow_forward: MySQL - relational database management system
+:arrow_forward: Postman - testing tool for REST API
+:arrow_forward: Cucumber - software supporting behaviour-driven development
+:arrow_forward: Selenium IDE - tool use to support automated testing
+:arrow_forward: Selenium WebDriver - for automated testing of web applications
+:arrow_forward: Java - basics of Java language
+:arrow_forward: IntelliJ IDEA - development environment for Java
+:arrow_forward: HTML/CSS
+    
+## Books I have read
+:arrow_forward: Certyfikowany tester ISTQB. Poziom podstawowy by Roman Adam & Stapp Lucjan.
+:arrow_forward: A Practitioner's Guide to Software Test Design__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing ebook
 
 
