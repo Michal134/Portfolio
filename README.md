@@ -27,11 +27,11 @@ You can download my CV in PDF format from my Google Drive
  
 :arrow_forward: [Mobile app](Amazon.com)
   * [Test Plan]([https://1drv.ms/w/s!ArG27EA3d8gegxrUSVLhuZlxKlnU?e=eikNkr)
-  * Test cases [Jira]
-  * API Testing
-  * Project documentatio
-  * Project Requirements
-  * Test Report
+  * Test cases [Jira] 
+  * API Testing (In progress)
+  * [Project documentatio](https://1drv.ms/w/s!ArG27EA3d8gegybbDtpcjGmYLxCa?e=kM2rCa)
+  * [Project Requirements](https://1drv.ms/w/s!ArG27EA3d8gegyjuBO-yiR3199Tj?e=8PhB53)
+  * Test Report (In progress)
 
     
 ## Tools 
