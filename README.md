@@ -1,6 +1,6 @@
 # Portfolio
 My portfolio is designed to demonstrate my skills in software testing across various aspects. It has been put together to showcase my knowledge in software testing and my ability to work with different tools. Although I'm still relatively new to this field, my eagerness to learn and my motivation are strong, and I believe that, together with my skill set, they can be valuable contributions to your organization
-- [About me](#about-me)
+//[About me](#about-me)
 - [Resume](#Resume)
 - [Test Showcase](#Test-Showcase) *`Test by design does not aim to cover all functionalities and use different testing techniques and tools`
 - [Tools](#Tools)
@@ -9,7 +9,7 @@ My portfolio is designed to demonstrate my skills in software testing across var
 ![Portfolioview](https://github.com/Michal134/Portfolio/assets/128796710/34d86da4-b322-4bb2-bc7e-64e3d7aa422e)
 
 ## Resume
-You can download my CV in PDF format from my Google Drive
+You can download my CV in PDF format from my [Google Drive](https://drive.google.com/file/d/1S_5H8N4TvHOnas6OZ6wyzoto9P0pjxqf/view?usp=sharing)
 
 ## Test Showcase
 
@@ -26,7 +26,7 @@ You can download my CV in PDF format from my Google Drive
   * [Test Report](https://1drv.ms/w/s!ArG27EA3d8geg0z_mCp0-Kn2nsEh?e=lf26Ro)
  
 :arrow_forward: [Mobile app](Amazon.com)
-  * [Test Plan]([https://1drv.ms/w/s!ArG27EA3d8gegxrUSVLhuZlxKlnU?e=eikNkr)
+  * [Test Plan](https://1drv.ms/w/s!ArG27EA3d8gegxrUSVLhuZlxKlnU?e=eikNkr)
   * [Test cases](https://1drv.ms/x/s!ArG27EA3d8gegoAmTBWWCMdm0VM0oA?e=PpCMpK)
   * API Testing (In progress)
   * [Project documentatio](https://1drv.ms/w/s!ArG27EA3d8gegybbDtpcjGmYLxCa?e=kM2rCa)
