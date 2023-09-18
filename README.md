@@ -27,7 +27,7 @@ You can download my CV in PDF format from my Google Drive
     * [Example 3](https://drive.google.com/file/d/1hY-k3XcQm_0fp_2x4XGrx3QQ_WLxMtUO/view?usp=sharing)
   * [Excel](https://drive.google.com/file/d/1jclZW82by1_m1FDoIZYiNWQbu9zPtC93/view?usp=sharing) 
   * [Automation Testing Repositorie](https://github.com/Michal134/Amazon.git) *`Logging in, making a purchase, and taking a screenshot` [Screen record](https://drive.google.com/file/d/1R6yy10S5acyXwyZDhN0HkUD4sgjxV77e/view?usp=sharing)
-  * Test Report
+  * [Test Report](https://1drv.ms/w/s!ArG27EA3d8geg0z_mCp0-Kn2nsEh?e=lf26Ro)
  
 :arrow_forward: [Mobile app](Amazon.com)
   * [Test Plan]([https://1drv.ms/w/s!ArG27EA3d8gegxrUSVLhuZlxKlnU?e=eikNkr)
