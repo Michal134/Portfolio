@@ -6,7 +6,7 @@ My portfolio is designed to demonstrate my skills in software testing across var
 - [Tools](#Tools)
 - [Books I have read](#books-i-have-read)
   
-![Portfolioview](https://github.com/Michal134/Portfolio/assets/128796710/b4c2fa60-789e-4948-ae70-f17af4cc53ec)
+![Portfolioview](https://github.com/Michal134/Portfolio/assets/128796710/34d86da4-b322-4bb2-bc7e-64e3d7aa422e)
 
 ## Resume
 You can download my CV in PDF format from my Google Drive
