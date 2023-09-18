@@ -12,11 +12,7 @@ My portfolio is designed to demonstrate my skills in software testing across var
 You can download my CV in PDF format from my Google Drive
 
 ## Test Showcase
-:arrow_forward: [Facebook.com](Facebook.com) was used to create demo test cases
-  * Test Plan[the training webpage Enotes]
-  * Test cases [Microsoft Excel] [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-  *Automation Testing
-  * Test Report
+
 
 :arrow_forward: [Amazon.com](Amazon.com)
   * [Test Plan](https://1drv.ms/w/s!ArG27EA3d8gegxqUSbn9LEeqW8RR?e=iF3uII)
@@ -37,12 +33,6 @@ You can download my CV in PDF format from my Google Drive
   * Project Requirements
   * Test Report
 
-:arrow_forward: [Online Game](Amazon.com)
-  * Test Plan(htp=sharing)
-  * Test cases [Jira]
-  * Installation testing
-  * Configuration testing
-  * Test Report
     
 ## Tools 
 
