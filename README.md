@@ -1,6 +1,6 @@
 # Portfolio
 My portfolio is designed to demonstrate my skills in software testing across various aspects. It has been put together to showcase my knowledge in software testing and my ability to work with different tools. Although I'm still relatively new to this field, my eagerness to learn and my motivation are strong, and I believe that, together with my skill set, they can be valuable contributions to your organization
-//[About me](#about-me)
+
 - [Resume](#Resume)
 - [Test Showcase](#Test-Showcase) *`Test by design does not aim to cover all functionalities and use different testing techniques and tools`
 - [Tools](#Tools)
